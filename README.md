@@ -4,6 +4,7 @@
 - Catppucin for Godot, by catppucin: https://github.com/catppuccin/godot
 - Dracula for Godot, by dracula: https://github.com/dracula/godot
 - Vertex theme, by pegasusearl: https://godotforums.org/d/33238-vertex-dark-theme-for-godot-4-finally-a-non-flat-theme
+- Godot home theme, by gap-bite: https://github.com/gap-bite/godot-home-theme
 
 ## Syntax themes
 
