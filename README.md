@@ -1,6 +1,6 @@
 ## Editor themes
 
-- Minimal theme, by passivestar: https://github.com/passivestar/godot-minimal-theme
+- Minimal theme, by passivestar: https://github.com/passivestar/godot-minimal-theme (now default for 4.6+)
 - Catppucin for Godot, by catppucin: https://github.com/catppuccin/godot
 - Dracula for Godot, by dracula: https://github.com/dracula/godot
 - Vertex theme, by pegasusearl: https://godotforums.org/d/33238-vertex-dark-theme-for-godot-4-finally-a-non-flat-theme
